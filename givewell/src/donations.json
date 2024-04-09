@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6435a7dcbaf0c883e6ea8b82"
+  },
+  "username": "yuvraj",
+  "donation": [
+    {
+      "to": "Manmaitri",
+      "content": "400",
+      "category": "packets of pet food",
+      "status": "pending",
+      "details": "donation of pedegree for street dogs",
+      "campaign": "Be a friend",
+      "image": "Rename.png",
+      "_id": {
+        "$oid": "6435a7dcbaf0c883e6ea8b83"
+      }
+    },
+    {
+      "to": "Gram Vikas Trust",
+      "content": "500",
+      "category": "books",
+      "status": "approved",
+      "details": "Books for 8th std GSEB students",
+      "campaign": "Educate India",
+      "image": "Rename.png",
+      "_id": {
+        "$oid": "6435f7aca391686b84c63e5b"
+      }
+    },
+    {
+      "to": "Gram Vikas Trust",
+      "content": "40",
+      "category": "books",
+      "status": "approved",
+      "details": "Books ",
+      "campaign": "Educate India",
+      "image": "Screenshot 2023-04-02 at 5.18.20 PM.png",
+      "_id": {
+        "$oid": "643639f868652373c80778b4"
+      }
+    }
+  ],
+  "contact": "7600271362",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643630b08b1e4b50197624b3"
+  },
+  "username": "Heli",
+  "donation": [
+    {
+      "to": "Give.do",
+      "content": "50",
+      "category": "spectacles",
+      "status": "approved",
+      "details": "Frames only",
+      "campaign": "Roshni",
+      "image": "Screenshot 2023-04-02 at 5.18.22 PM.png",
+      "_id": {
+        "$oid": "643630b08b1e4b50197624b4"
+      }
+    }
+  ],
+  "contact": "9898712243",
+  "email": "21cs017@charusat.edu.in",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64395a19878e79ba651c8a85"
+  },
+  "username": "Dilipsinh Bodana",
+  "donation": [
+    {
+      "to": "Gram Vikas Trust",
+      "content": "500",
+      "category": "books",
+      "status": "approved",
+      "details": "i want to donate books for poor children",
+      "campaign": "Educate India",
+      "image": "A1 batch lab.jpg",
+      "_id": {
+        "$oid": "64395a19878e79ba651c8a86"
+      }
+    }
+  ],
+  "contact": "9898019968",
+  "email": "dilipsinhbodana@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b8470b35292037b252d2e"
+  },
+  "username": "Jayrajsinh Barad",
+  "donation": [
+    {
+      "to": "Manmaitri",
+      "content": "30 ",
+      "category": "piggy",
+      "status": "approved",
+      "details": "i want to donte bhund",
+      "campaign": "Pashu",
+      "image": "A1 batch lab.jpg",
+      "_id": {
+        "$oid": "643b8470b35292037b252d2f"
+      }
+    }
+  ],
+  "contact": "1234567890",
+  "email": "jayrajbarad911@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648062df9ebd2a3cf1899852"
+  },
+  "username": "Dhairya",
+  "donation": [
+    {
+      "to": "Seva Foundation",
+      "content": "500 ",
+      "category": "Rupiya",
+      "status": "approved",
+      "details": "Mare Dan karvu che..!!",
+      "campaign": "save girls",
+      "image": "Rename.png",
+      "_id": {
+        "$oid": "648062df9ebd2a3cf1899853"
+      }
+    }
+  ],
+  "contact": "1234567890",
+  "email": "ds2964496@gmail.com",
+  "__v": 0
+}]

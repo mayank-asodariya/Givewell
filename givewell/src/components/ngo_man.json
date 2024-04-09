@@ -1,0 +1,26 @@
+{
+    "name": "manmaitri",
+    "categories": [
+      "Animal Valfare",
+      "Animal Medical issues"
+    ],
+    "camp": {
+      "ongoing": [
+        {
+          "id": 1,
+          "name": "\"Be a friend of animals\""
+        }
+      ],
+      "complete": []
+    },
+    "password": "123",
+    "email": "yuvrajsinhbodana@gmail.com",
+    "ngo_res_no": "09890",
+    "location": "bharuch",
+    "campaign_name": "dogs",
+    "detailes": "hahaha",
+    "__v": 0,
+    "phone": "+91-99xxx-xxx24",
+    "image": "ngo2.png",
+    "profile": "donation.jpg"
+  }

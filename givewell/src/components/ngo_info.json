@@ -1,0 +1,36 @@
+{
+    "email": "emailaddress@gmail.com",
+    "phone": "+91-99xxx-xxx25",
+    "categories": [
+      "Academicssss",
+      "Necessities",
+      "Child care"
+    ],
+    "location": "kosamba,Surat, Gujarat",
+    "camp": {
+      "ongoing": [
+        {
+          "id": 1,
+          "name": "Educate India",
+          "type": "Notebooks, Textbooks, Reference books, etc.",
+          "img": "camp1.png"
+        },
+        {
+          "id": 2,
+          "name": "Provide for India",
+          "type": "Necessary items(i.e. pen, pencil, clothes, etc) and technological resources,etc.",
+          "img": "camp2.png"
+        }
+      ],
+      "complete": [
+        {}
+      ]
+    },
+    "image": "ngo1.png",
+    "name": "Gram Vikas Trust",
+    "profile": "profile.png",
+    "password": "456",
+    "ngo_res_no": "123321",
+    "campaign_name": "vikas vikas vikas",
+    "detailes": "hohoho"
+  }

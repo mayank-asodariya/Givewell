@@ -1,0 +1,61 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.camp-type{
+    margin-left: 5vw;
+    color: #008095;
+    font-family: Roboto, 'san-serif';
+    margin-top: 5vh;
+    font-size: 3rem;
+
+}
+.card2{
+    display: flex;
+    width: 90vw;
+    height: 20vw;
+    margin: 5vw;
+    padding: 2vw;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(227, 226, 226, 0.45166) 83.85%, rgba(219, 218, 218, 0.578125) 99.99%, rgba(255, 255, 255, 0) 100%);
+    mix-blend-mode: normal;
+    filter: drop-shadow(1px 2px 7px #1194A9);
+    border-radius: 20px;
+    color: #008095;
+    font-family: Roboto, 'san-serif';
+}
+.img-card2{
+    width: 30vw;
+    margin-right: 5vw;
+    margin-left: 2vw;
+}
+.camp-name{
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1vw;
+}
+.camp-don-type{
+    font-size: 2vw;
+}
+.camp-don{
+    color: #1194A9;
+}
+.don-btn{
+    background-color: #1194A9;
+    border: none;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 2vw;
+    right: 3vw;
+    padding: 0.5vw 2vw;
+}
+.don-btn:hover{
+    background-color: #007e91;
+    color: #dedede;
+    transition: 0.5s;
+}

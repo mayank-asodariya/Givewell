@@ -1,0 +1,15 @@
+#aa{
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    justify-content: space-evenly;
+    /* flex: 1 0 100%; */
+    flex-wrap: wrap;
+    /* margin-top: calc(var(--bs-gutter-y) * -1); */
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);}

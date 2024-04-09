@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "642761e2b130247634f6b3d5"
+  },
+  "email": "emailaddress@gmail.com",
+  "phone": "+91-99xxx-xxx25",
+  "categories": [
+    "Academics",
+    "Necessities",
+    "Child care"
+  ],
+  "location": "Kosamba,Surat, Gujarat",
+  "camp": [
+    {
+      "name": "Educate India",
+      "type": "Notebooks, Textbooks, Reference books, etc.",
+      "img": "camp1.png",
+      "status": "ongoing"
+    },
+    {
+      "name": "Provide for India",
+      "type": "Necessary items(i.e. pen, pencil, clothes, etc) and technological resources,etc.",
+      "img": "camp2.png",
+      "status": "completed"
+    },
+    {
+      "name": "Save khaman",
+      "type": "Khaman",
+      "img": "Rename.png",
+      "target": "500 kg Khaman",
+      "status": "ongoing",
+      "_id": {
+        "$oid": "64395b52878e79ba6524416a"
+      }
+    }
+  ],
+  "image": "ngo1.png",
+  "name": "Gram Vikas Trust",
+  "profile": "profile.png",
+  "password": "123@Test",
+  "ngo_res_no": "123321"
+},{
+  "_id": {
+    "$oid": "642761f1b130247634f6b3d6"
+  },
+  "name": "Manmaitri",
+  "categories": [
+    "Animal Welfare",
+    "Medical care"
+  ],
+  "camp": [
+    {
+      "name": "Be a friend",
+      "type": "pet food,pet home,money",
+      "img": "camp1.png",
+      "status": "ongoing"
+    },
+    {
+      "name": "Pashu",
+      "type": "animal medical equipmemnts",
+      "img": "donate.jpg",
+      "status": "ongoing",
+      "_id": {
+        "$oid": "6435d426cfad9282da928fce"
+      }
+    },
+    {
+      "name": "yuvraj",
+      "type": "50",
+      "img": "Screenshot 2023-04-02 at 5.18.11 PM.png",
+      "target": "50",
+      "status": "completed",
+      "_id": {
+        "$oid": "6435e72ac7670b0a5e852bd3"
+      }
+    }
+  ],
+  "password": "123@Test",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "09890",
+  "location": "Shaktinath,Bharuch",
+  "__v": 0,
+  "phone": "9773224858",
+  "image": "ngo2.png",
+  "profile": "donation.jpg"
+},{
+  "_id": {
+    "$oid": "6432ec91ab63aeb8c495dd6d"
+  },
+  "name": "Seva Foundation",
+  "categories": [
+    "Save Girls"
+  ],
+  "camp": [
+    {
+      "id": "1",
+      "name": "save girls",
+      "type": "Money",
+      "img": "camp1.png",
+      "status": "ongoing",
+      "_id": {
+        "$oid": "6432ec91ab63aeb8c495dd6e"
+      }
+    }
+  ],
+  "password": "123@Test",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "9876",
+  "location": "surat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6435bbbfe389beff6c159d19"
+  },
+  "name": "Give.do",
+  "categories": [
+    "Humanity"
+  ],
+  "camp": [
+    {
+      "name": "Roshni",
+      "type": "Any things that can help blind people",
+      "img": "camp1.png",
+      "status": "ongoing",
+      "_id": {
+        "$oid": "6435bbbfe389beff6c159d1a"
+      }
+    }
+  ],
+  "password": "123@Test",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "977809",
+  "location": "Mumbai,Maharastra",
+  "__v": 0
+}]

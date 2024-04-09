@@ -1,0 +1,26 @@
+.row-1{
+    display:block;
+    
+}
+.col-md{
+    margin-bottom: 2em;
+    
+}
+.status{
+    margin-top:0;
+    padding: 1%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 32px;
+    padding: 0.1em 1em;
+    text-align: center;
+    
+    color: #008095;
+  
+    margin-left: 11.5em;
+    background: #FAF9F9;
+    border: 3px solid #7BCDF2;
+    border-radius: 20px;
+    
+    text-decoration: none;
+}

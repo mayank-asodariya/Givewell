@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6432f6be93fe7ca0fcabffe3"
+  },
+  "username": "yuvraj",
+  "donation": [
+    {
+      "to": "Gram Vikas Trust",
+      "content": "50",
+      "category": "books",
+      "status": "approved",
+      "details": "i want to donate books",
+      "_id": {
+        "$oid": "6432f6be93fe7ca0fcabffe4"
+      }
+    },
+    {
+      "to": "Seva Foundation",
+      "content": "50",
+      "category": "Dollars",
+      "status": "denied",
+      "_id": {
+        "$oid": "6433222a2cdc57b129ba2482"
+      }
+    },
+    {
+      "to": "Manmaitri",
+      "content": "1",
+      "category": "Pet House",
+      "status": "pending",
+      "details": "A little pet house for little puppies.!!",
+      "_id": {
+        "$oid": "643429d238d5e9d417473877"
+      }
+    },
+    {
+      "to": "Gram Vikas Trust",
+      "content": "",
+      "category": "",
+      "status": "pending",
+      "details": "",
+      "_id": {
+        "$oid": "643504a30304b59e8544aedb"
+      }
+    },
+    {
+      "to": "Seva Foundation",
+      "content": "400",
+      "category": "dollars",
+      "status": "approved",
+      "details": "32,000 rupees in check",
+      "_id": {
+        "$oid": "6435594dd17f36ef45b837ea"
+      }
+    },
+    {
+      "to": "Gram Vikas Trust",
+      "content": "40",
+      "category": "pens",
+      "status": "pending",
+      "details": "bh",
+      "_id": {
+        "$oid": "6435872c58f83aa1122b9398"
+      }
+    }
+  ],
+  "contact": "9773224858",
+  "__v": 0,
+  "email": "yuvrajsinhbodana@gmail.com"
+}]

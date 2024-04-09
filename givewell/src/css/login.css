@@ -1,0 +1,326 @@
+.main{
+    backdrop-filter: blur(100%);
+    width: 100%;
+    height: 100%;
+}
+.input-control
+{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.logincontainer
+{
+
+    width: 35%;
+    background-color: white;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    margin-top: 20vh;
+    margin-left: 20vw;
+    /* align-items: center; */
+    padding: 50px;
+ backdrop-filter:blur(5px);
+    
+    position: fixed;
+    z-index: 7;
+
+}
+
+
+.wrapper
+{
+    padding: 0;
+}
+
+#text-large-a
+{
+    /* font-size: 32px;
+    overflow-y: hidden;
+    text-align: center; */
+    bottom: 0px;
+    left: 4.2em;
+    width: 5em;
+    /* height: 1.2em; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    color: #1194A9;
+    border-bottom: #1194A9;
+
+}
+
+#Login-heading
+{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+/* #login-label
+{
+    position: relative;
+    left: 100px;
+    top: 0.8em;
+    width: 7em;
+    height: 2em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    line-height: 33px;
+    text-align: center;
+    color: #1194A9;
+    top: 1.5em;
+    left: 2em;
+
+
+}
+
+#login-label1
+{
+    position: relative;
+    left: 100px;
+    height: 55px;
+    width: 7em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75rem;
+    line-height: 33px;
+    text-align: center;
+    color: #1194A9;
+    left: 2em;
+    bottom: 0.55em;
+}
+
+    
+
+
+#username
+{
+    
+    position: relative;
+    left: 4.68em;
+    bottom: 1.8em;
+    width: 19em;
+    height: 2.4em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 0.3em;
+    border: transparent;
+
+   
+}
+
+
+#email
+{
+    position: relative;
+    left: 4.65em;
+    bottom: 4.5em;
+    width: 19em;
+    height: 2.4em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+    
+} */
+label{
+    /* text-align: auto; */
+    /* position: relative; */
+    /* bottom: 4.8em; */
+    /* right: 0.34em; */
+    /* text-align: center; */
+    /* height: 55px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: #1194A9;
+    /* top: 50%; */
+    line-height: 0.9em;
+}
+
+
+
+    
+
+
+.input-field-l
+
+{
+    
+    /* position: relative; */
+    /* margin-left: 6em; */
+    /* bottom: 2.2em; */
+    width: 19.2em;
+    /* height: 2.5em; */
+    padding: 0.37em;
+    
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+    float: right;
+
+   
+}
+
+
+
+.method-control1
+{
+    margin: 5px 5px 25px 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 23px;
+    border: none;
+    padding: 7px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    /* background: url('../images/google.png') no-repeat  27% 50% ; */
+    
+}
+/* .method-control2
+{
+
+    margin: 5px 5px 25px 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 23px;
+    border: none;
+    padding: 7px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    /* background: url('../images/old-typical-phone.png') no-repeat  20% 50% ; */
+/* } */
+
+
+.input-control-fgpass
+{
+    text-align: end;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+/* .striped
+{
+    color: gray;
+    margin-bottom: 20px;
+} */
+
+/* .method-action
+{
+    color: gray;
+    text-decoration: none;
+} */
+
+
+#text-login{
+    
+    width: 60%;
+    /* height:160vh; */
+ 
+ background: #FFFFFF;
+ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ backdrop-filter: blur(2.5px);
+ /* Note: backdrop-filter has minimal browser support */
+ 
+ border-radius: 38px;
+}
+#here{
+    text-decoration: none;
+    color:#5EC1C3;
+    
+}
+#openbtnn{
+   
+   
+    margin-left: 7.5em;
+   
+    background: #1194A9;
+    border-radius: 2em;
+    padding: 0.2em 1.2em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#for-passs{
+    margin-top: 0.1em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    /* margin-top:6em; */
+    font-size: 1.39rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1194A9;
+   
+    padding-left: 9.5em;
+    text-decoration: none;
+    
+}
+/* #sign-up{
+    position: relative;
+    left: 50px;
+    width: 17em;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #5EC1C3;
+    left: 12.5em;
+    top: 0.45em;
+    padding-left: 2em;
+    text-decoration: none;
+    
+    
+} */
+/* #mark{
+    position: relative;
+    width: 671px;
+    height: 0px;
+    border: 3px solid #5EC1C3;
+    bottom: 480px;
+    right: 1em;
+} */
+#close{
+    position: fixed;
+    margin-left: 82%;
+    top: 8px;
+    width: 45px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #1194A9;
+    text-decoration: none;
+    background: none;
+    border: none;
+
+} 
+/* #line{
+    margin-top:1px;
+    color:#1194A9; 
+    height:2px;
+    
+} */

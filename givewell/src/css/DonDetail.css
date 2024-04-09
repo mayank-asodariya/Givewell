@@ -1,0 +1,109 @@
+.don-popup{
+    display: block;
+    width: 40vw;
+    margin: auto;
+    border: 2px solid #1194A9;
+    border-radius: 20px;
+    padding: 3vw;
+    align-items: center;
+    z-index: 1000; 
+    position: fixed;
+    align-self: center;
+    /* overflow-x: scroll; */
+}
+.heading{
+    color: #008095;
+    font-size: 1.7rem;
+    /* margin-left: 15vw; */
+    /* align-self: center; */
+    font-family: Roboto, 'san-serif';
+    align-self: center;
+}
+.don-popup hr{
+    color: #5EC1C3;
+    width: 100%;
+    /* border: 20px; */
+    /* font-size: 3px; */
+    display: block;
+}
+.don-info1{
+    display: block;
+    margin: auto;
+}
+.donImg{
+    width:25vw;
+    margin: auto;
+    /* margin-left: vw; */
+    position: relative;
+    left: 13%;
+    text-align: center;
+    align-content: center;
+}
+.don-info1 hr{
+    color: #5EC1C3;
+    width: 80%;
+    margin-left: 3.2vw;
+}
+.Prof{
+    display: flex;
+    /* margin: auto; */
+}
+.profImg{
+    width: 30px;
+    height: 30px;
+    margin-left: 13vw;
+    clip-path: circle(50%);
+}
+.profName{
+    display: flex;
+    color: #1194A9;
+    margin-left: 1vw;
+    font-size: 1.2rem;
+}
+.don-info2{
+    display: block;
+    color: #1194A9;
+    font-family: Roboto , 'san-serif';
+    font-size: 1.5rem;
+}
+.don-info2 ul li{
+    display: block;
+    font-weight: 700;
+    margin-left: 3vw;
+    margin-bottom: 1vh;
+}
+.info2-ans{
+    color: #5EC1C3;
+}
+.no{
+    display: inline;
+    margin-left: 7vw;
+    margin-top: 2vh;
+    border: 2px solid #7BCDF2;
+    border-radius: 20px;
+    background-color: white;
+    color: #008095;
+    font-size: 1.5vw;
+    padding: 0.2rem 1.9rem;
+}
+.no:hover{
+    background-color: rgb(220, 220, 220);
+    color: #006170;
+    border: 2px solid #6cb2d3;
+}
+.yes{
+    display: inline;
+    margin-left: 5vw;
+    margin-top: 2vh;
+    border: 2px solid #1194A9;
+    border-radius: 20px;
+    color: white;
+    background-color: #1194A9;
+    font-size: 1.5vw;
+    padding: 0.2rem 1.2rem;
+}
+.yes:hover{
+    background-color: #0e7382;
+    border: 2px solid #0e7382;
+    color: rgb(220, 220, 220);
+}

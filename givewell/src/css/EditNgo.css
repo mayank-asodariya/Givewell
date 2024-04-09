@@ -1,0 +1,43 @@
+#openbtnn-e{
+    margin-left: 8.5em;
+    
+    
+    background: #1194A9;
+    border-radius: 2em;
+    padding: 0.2em 1.2em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#text-loginn-e{
+    width: 60%;
+   /* height:100vh; */
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 38px;
+}
+#text-large-e{
+    bottom: 0px;
+    left: 4.2em;
+    width: 5em;
+    /* height: 1.2em; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    color: #1194A9;
+    border-bottom: #1194A9;
+    margin: auto;
+    display: inline;
+    margin-left: 0em;
+}

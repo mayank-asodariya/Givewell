@@ -1,0 +1,128 @@
+.input-control 
+    
+{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* .main
+{
+    background: url('../images/thali.jpeg') no-repeat ;
+    background-size: 100%;
+} */
+/* .logincontainerr
+{
+
+    width: 60%;
+    height: 200vh;
+    background-color: white;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    margin-top: 38px;
+    margin-bottom: 60px;
+    padding: 50px;
+    
+
+} */
+
+
+.wrapper
+{
+    padding: 0;
+}
+#text-login-a{
+    
+    width: 60%;
+    /* height:70vh; */
+    margin:auto;
+    margin-top: 20vh;
+    margin-left: 19vw;
+ background: #FFFFFF;
+ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ backdrop-filter: blur(2.5px);
+ /* Note: backdrop-filter has minimal browser support */
+ 
+ border-radius: 38px;
+}
+#text-large-v
+{
+    /* font-size: 32px;
+    overflow-y: hidden;
+    text-align: center; */
+    
+    /* height: 1.2em; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    color: #1194A9;
+    border-bottom: #1194A9;
+
+}
+.lines{
+    color:#1194A9;
+    text-align: center;
+    
+  
+}
+.count{
+    color:#1194A9;
+    text-align: center;
+    
+   
+}
+.input-field-a
+
+{
+    
+    /* position: relative; */
+    /* margin-left: 4.7em; */
+    /* bottom: 2.2em; */
+    width: 19.2em;
+    /* height: 2.5em; */
+    padding: 0.37em;
+    display: block;
+    margin: auto;
+    
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+   
+
+   
+}
+#close{
+    /* position: fixed; */
+    margin-left: 82%;
+    top: 8px;
+    width: 45px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #1194A9;
+    text-decoration: none;
+
+
+}
+#openbtnn-v{
+    background: #1194A9;
+    margin: auto;
+    padding: 1%;
+    border-radius: 2em;
+    padding: 0.2em 1.2em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+} 

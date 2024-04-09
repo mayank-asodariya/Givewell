@@ -1,0 +1,193 @@
+.input-control 
+    
+{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* .main
+{
+    background: url('../images/thali.jpeg') no-repeat ;
+    background-size: 100%;
+} */
+/* .logincontainerr
+{
+    width: 60%;
+    height: 100%;
+    background-color: white;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    margin-top: 38px;
+    margin-bottom: 60px;
+    margin-left: 300px;
+    padding: 50px;
+    position: fixed;
+    z-index: 7;
+} */
+
+
+.wrapper
+{
+    padding: 0;
+}
+
+#text-large
+{
+    /* font-size: 32px;
+    overflow-y: hidden;
+    text-align: center; */
+    bottom: 0px;
+    left: 4.2em;
+    width: 5em;
+    /* height: 1.2em; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    color: #1194A9;
+    border-bottom: #1194A9;
+
+/* border-bottom: 0.3em solid #1194A9; */
+
+}
+
+
+
+label{
+    text-align: left;
+    /* position: relative; */
+    /* bottom: 4.8em; */
+    /* right: 0.34em; */
+    /* text-align: center; */
+    /* height: 55px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: #1194A9;
+    /* top: 50%; */
+    line-height: 0.9em;
+    float: left;
+
+}
+
+
+
+    
+
+
+.input-field
+
+{
+    
+    /* position: relative; */
+    margin-left: 4.7em;
+    /* bottom: 2.2em; */
+    width: 19.2em;
+    /* height: 2.5em; */
+    padding: 0.37em;
+    
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+    float: right;  
+}
+
+
+
+
+
+
+
+
+
+#text-loginn{
+    
+    width: 60%;
+   /* height:90vh; */
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 38px;
+}
+
+#openbtnn{
+    
+    margin-left: 7.5em;
+    
+    background: #1194A9;
+    border-radius: 2em;
+    padding: 0.2em 1.2em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+   
+
+}
+#for-passs{
+  
+    
+    margin-top: 0.1em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.39rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1194A9;
+   
+    padding-left: 9.5em;
+    text-decoration: none;
+    
+}
+#sign-up{
+   
+    width: 271px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1194A9;
+   
+    padding-left: 45px;
+    text-decoration: none;
+    
+    
+}
+#linee{
+    bottom:480px;
+    right: 1em;
+}
+#close{
+    position: fixed;
+    margin-left: 82%;
+    top: 8px;
+    width: 45px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #1194A9;
+
+
+}

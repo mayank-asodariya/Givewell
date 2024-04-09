@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "642761e2b130247634f6b3d5"
+  },
+  "email": "emailaddress@gmail.com",
+  "phone": "+91-99xxx-xxx25",
+  "categories": [
+    "Academicssss",
+    "Necessities",
+    "Child care"
+  ],
+  "location": "kosamba,Surat, Gujarat",
+  "camp":[{
+   
+        "name": "Educate India",
+        "type": "Notebooks, Textbooks, Reference books, etc.",
+        "img": "camp1.png",
+        "status":"ongoing"
+  },
+{
+        "name": "Provide for India",
+        "type": "Necessary items(i.e. pen, pencil, clothes, etc) and technological resources,etc.",
+        "img": "camp2.png",
+        "status":"completed"
+      }   
+  ],
+  "image": "ngo1.png",
+  "name": "Gram Vikas Trust",
+  "profile": "profile.png",
+  "password": "456",
+  "ngo_res_no": "123321"
+},
+{
+  "_id": {
+    "$oid": "642761f1b130247634f6b3d6"
+  },
+  "name": "manmaitri",
+  "categories": [
+    "Animal Valfare",
+    "Animal Medical issues"
+  ],
+  "camp": [{
+        "name": "Be a friend of animals",
+        "type": "pet food,pet home,money",
+        "img": "camp1.png",
+        "status":"ongoing"
+  }],
+  "password": "123",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "09890",
+  "location": "bharuch",
+  "__v": 0,
+  "phone": "+91-99xxx-xxx24",
+  "image": "ngo2.png",
+  "profile": "donation.jpg"
+},
+{
+  "_id": {
+    "$oid": "6429992b368acf0203516a1b"
+  },
+  "name": "Support.do",
+  "categories": [],
+  "camp": [{
+    
+  }],
+  "password": "123@yuvraj",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "0987",
+  "location": "ahmedabad",
+  "__v": 0,
+  "image": "ngo3.png",
+  "profile": "donation.jpg"
+},{
+  "_id": {
+    "$oid": "64299da9368acf0203516a3d"
+  },
+  "name": "NGO from surat",
+  "categories": [],
+  "camp": [{
+   
+  }],
+  "password": "123@surat",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "98980",
+  "location": "surat",
+  "__v": 0,
+  "image": "ngo1.png"
+},
+{
+  "_id": {
+    "$oid": "6432ec91ab63aeb8c495dd6d"
+  },
+  "name": "Seva Foundation",
+  "categories": [
+    "Save Girls"
+  ],
+  "camp": [
+    {
+   
+        "id": "1",
+        "name": "save girls",
+        "type": "Money",
+        "img": "camp1.png",
+        "status":"ongoing",
+        "_id": {
+          "$oid": "6432ec91ab63aeb8c495dd6e"
+        }
+      }],  
+
+  "password": "09ol",
+  "email": "yuvrajsinhbodana@gmail.com",
+  "ngo_res_no": "9876",
+  "location": "surat",
+  "__v": 0
+}
+]

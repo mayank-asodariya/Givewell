@@ -1,0 +1,45 @@
+.camp{
+    color: #008095;
+    font-family: Roboto, 'san-serif';
+    font-size: 2rem;
+    margin-top: 50vh;
+    margin-left: 5vw;
+}
+.camp-stat{
+    color: #1194A9;
+    font-family: Roboto, 'san-serif';
+    font-size: 1.7rem;
+    margin-top: 1vh;
+    margin-left: 10vw;
+    /* margin-bottom: 2vh; */
+}
+.add{
+    font-family: Roboto, 'san-serif';
+    font-size: 1.5rem;
+    background-color: #FFFFFF;
+    border: 3px solid #1194A9;
+    color: #008095;
+    display: inline;
+    border-radius: 20px;
+    margin-left: 5px;
+    padding: 0em 0.2em;
+}
+.card3{
+    margin: 2vw;
+    align-items: center;
+    /* text-align: center; */
+}
+.card2{
+    display: flex;
+    width: 70vw;
+    height: 20vw;
+    margin: auto;
+    margin-bottom: 3vw;
+    padding: 2vw;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(227, 226, 226, 0.45166) 83.85%, rgba(219, 218, 218, 0.578125) 99.99%, rgba(255, 255, 255, 0) 100%);
+    mix-blend-mode: normal;
+    filter: drop-shadow(1px 2px 7px #1194A9);
+    border-radius: 20px;
+    color: #008095;
+    font-family: Roboto, 'san-serif';
+}

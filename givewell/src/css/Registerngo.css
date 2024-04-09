@@ -1,0 +1,425 @@
+.input-control 
+{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* .main
+{
+    background: url('../images/thali.jpeg') no-repeat ;
+    background-size: 100%;
+} */
+/* .logincontainerr
+{
+
+    width: 60%;
+    height: 100%;
+    background-color: white;
+    border-radius: 24px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    margin-top: 38px;
+    margin-bottom: 60px;
+    padding: 50px;
+} */
+
+
+.wrapper
+{
+    padding: 0;
+}
+
+#text-large
+{
+    /* font-size: 32px;
+    overflow-y: hidden;
+    text-align: center; */
+    bottom: 0px;
+    left: 4.2em;
+    width: 5em;
+    /* height: 1.2em; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    /* position: relative; */
+    color: #1194A9;
+    border-bottom: #1194A9;
+
+/* border-bottom: 0.3em solid #1194A9; */
+
+}
+
+/* #Login-heading
+{
+    font-size: 22px;
+    margin-bottom: 30px;
+} */
+
+/* #login-label-r
+{
+    position: relative;
+    left: 50px;
+    top: 0.75em;
+    width: 11.5em;
+    right: 3.5em;
+    height: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75rem;
+    line-height: 33px;
+    text-align: center;
+    color: #1194A9;
+    
+   
+}
+
+/* #login-label1-r
+{
+    position: relative;
+    bottom: 0.85em;
+    left: 79px;
+    width: 13.5em;
+    width: px;
+    height: 55px;
+    right: 4.7em;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    line-height: 33px;
+    text-align: center;
+    color: #1194A9;
+    
+} */
+/* #login-label2-r
+{
+    position: relative;
+    bottom: 2.88em;
+    left: 57px;
+    width: 8em;
+    height: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75rem;
+    line-height: 33px;
+    text-align: center;
+    color: #1194A9;
+    line-height: 0.9em;
+    top: 50%;
+    left: 1.85em;
+} */
+/* #login-label3-r
+{
+   
+    text-align: left;
+    position: relative;
+    bottom: 4.8em;
+    right: 0.1em;
+    text-align: center;
+    height: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: #1194A9;
+    top: 50%;
+    line-height: 0.9em;
+    
+}
+#login-label4-r{
+    text-align: left;
+    position: relative;
+    bottom: 4.8em;
+    right: 0.34em;
+    text-align: center;
+    height: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: #1194A9;
+    top: 50%;
+    line-height: 0.9em;
+
+}
+#login-label5-r{
+    text-align: left;
+    position: relative;
+    bottom: 4.8em;
+    right: 0.34em;
+    text-align: center;
+    height: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: #1194A9;
+    top: 50%;
+    line-height: 0.9em;
+
+} */ 
+label{
+    text-align: left;
+    /* position: relative; */
+    /* bottom: 4.8em; */
+    /* right: 0.34em; */
+    /* text-align: center; */
+    /* height: 55px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.75em;
+    color: #1194A9;
+    /* top: 50%; */
+    line-height: 0.9em;
+    float: left;
+
+}
+
+
+
+    
+
+
+.input-field
+
+{
+    
+    /* position: relative; */
+    margin-left: 4.7em;
+    /* bottom: 2.2em; */
+    width: 19.2em;
+    /* height: 2.5em; */
+    padding: 0.37em;
+    
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+    float: right;
+
+   
+}
+
+/* #pass_ngo
+{
+    position: relative;
+    left: 75px;
+    margin-left: 9.5em;
+    
+    bottom: 5.75em;
+    width: 19.2em;
+    height: 2.5em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+    
+}
+#contact_info{
+    position: relative;
+    margin-left: 9.5em;
+    
+    bottom: 9.35em;
+    width: 19.2em;
+    height: 2.5em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+
+}
+#reg_no{
+    position: relative;
+    left: 4.7em;
+    bottom: 12.75em;
+    width: 19.2em;
+    height: 2.5em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+
+}
+#loc{
+    position: relative;
+    left: 4.7em;
+    bottom: 12.75em;
+    width: 19.2em;
+    height: 2.5em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+
+}
+#first_camp{
+    position: relative;
+    left: 4.7em;
+    bottom: 12.75em;
+    width: 19.2em;
+    height: 2.5em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+
+
+}
+#first_camp_details{
+    position: relative;
+    left: 4.7em;
+    bottom: 12.75em;
+    width: 19.2em;
+    height: 2.5em;
+    background: #FAF9F9;
+    box-shadow: inset 1px 2px 4px #5EC1C3;
+    border-radius: 5px;
+    border: transparent;
+
+
+} */
+.input-submit
+{
+    width: 100%;
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 23px;
+    border: none;
+    padding: 7px;
+    margin-bottom: 15px;
+}
+
+.method-control1
+{
+    margin: 5px 5px 25px 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 23px;
+    border: none;
+    padding: 7px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    /* background: url('../images/google.png') no-repeat  27% 50% ; */
+    
+}
+.method-control2
+{
+
+    margin: 5px 5px 25px 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 23px;
+    border: none;
+    padding: 7px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    /* background: url('../images/old-typical-phone.png') no-repeat  20% 50% ; */
+}
+
+
+.input-control-fgpass
+{
+    text-align: end;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.striped
+{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.method-action
+{
+    color: gray;
+    text-decoration: none;
+}
+
+.method-action:hover
+{
+    color: orange;
+    
+}
+#text-loginn-r{
+    
+    width: 60%;
+   /* height:120vh; */
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 38px;
+}
+
+#openbtnn{
+    /* position: relative; */
+    
+    margin-left: 7.5em;
+    
+    background: #1194A9;
+    border-radius: 2em;
+    font-family: 'Roboto';
+    padding: 0.2em 1.2em;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+/* #sign-up{
+    position: relative;
+    left:50px;
+    width: 271px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1194A9;
+    left: 320px;
+    top: 22px;
+    padding-left: 45px;
+    text-decoration: none;
+    
+    
+} */
+#linee{
+    bottom:480px;
+    right: 1em;
+}
+#close{
+    position: fixed;
+    margin-left: 82%;
+    top: 8px;
+    width: 45px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #1194A9;
+
+
+}
