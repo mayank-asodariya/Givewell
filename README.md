@@ -1,6 +1,6 @@
 # Introduction
 
-Internship Period: 1 Month (Dates to be filled in)
+Internship Period: 1 Month
 
 During my one-month internship, I focused on developing a web application called "Givewell" that aims to streamline the donation process for both donors and NGOs. This project allowed me to gain valuable experience in web development, user interface/user experience (UI/UX) design, and project management.
 
