@@ -10,13 +10,13 @@ Day-by-Day Progress
 
 * Day 1-2: Project Introduction and Research: Met with the supervisor to understand the project goals and scope. Conducted research on existing donation platforms and identified areas for improvement.
 * Day 3-5: User Persona Development: Created user personas for both donors and NGOs to understand their needs and pain points.
-Day 6-7: Feature Planning and Prioritization: Defined the core functionalities of "Givewell" and prioritized features for development.
+* Day 6-7: Feature Planning and Prioritization: Defined the core functionalities of "Givewell" and prioritized features for development.
 
 ## Week 2: Development Kick-off
 
 * Day 8-9: System Design and Architecture: Defined the overall architecture of "Givewell" and outlined the tech stack to be used.
 * Day 10-12: User Interface (UI) Design: Developed initial wireframes and mockups for the donor and NGO interfaces.
-Day 13-14: Development Environment Setup: Set up the development environment with necessary tools and libraries.
+* Day 13-14: Development Environment Setup: Set up the development environment with necessary tools and libraries.
 
 ## Week 3: Functional Development
 
